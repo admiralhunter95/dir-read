@@ -1,0 +1,2 @@
+# dir-read
+Program for "walking" through a directory and search for files specified in an Excel spreadsheet. i.e. the spreadsheet A will contain the titles of the files we need to look for in a column. The python code looks through a directory and takes note of all the directory names and looks for specific filetypes, then compares it with the list of file names. If it finds what it's looking for, it takes note of the directory and later copies the directory into a separate folder.
